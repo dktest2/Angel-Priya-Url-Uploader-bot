@@ -49,12 +49,12 @@ async def start(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/LazyPrincessSupport"),
-                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://youtube.com/@LazyDeveloperr"),
-                        InlineKeyboardButton("⚡️ U𝖕𝖉𝖆𝖙e", url="https://t.me/LazyDeveloper"),
+                        InlineKeyboardButton("⚡️𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/movie_on1"),
+                        InlineKeyboardButton("✪ 𝚃𝙾𝙽𝚈 𝚂𝚃𝙰𝚁𝙺 ✪", url="https://t.me/Movie_search_V4_bot"),
+                        InlineKeyboardButton("⚡️ 𝚄𝙿𝙳𝙰𝚃𝙴", url="https://t.me/movie_a1"),
                     ],
-                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://instagram.com/LazyDeveloper__")],
-                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/LazyDeveloperr")],
+                    [InlineKeyboardButton("⭑💢 𝙼𝚈 𝙰𝙻𝙻 𝙱𝙾𝚃𝚂 💢⭑", url="https://t.me/movie_a1/162")],
+                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ 𝙼𝙳𝙸𝚂𝙺 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/+gtlaKqnF9rVlMWRl")],
                 ]
             ),
             reply_to_message_id=update.message_id
@@ -67,12 +67,12 @@ async def start(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("⚡️𝔖𝔲𝔭𝔭𝔬𝔯𝔱", url="https://t.me/LazyPrincessSupport"),
-                        InlineKeyboardButton("✪ ＹＴ ✪", url="https://youtube.com/@LazyDeveloperr"),
-                        InlineKeyboardButton("⚡️ U𝖕𝖉𝖆𝖙e", url="https://t.me/LazyDeveloper"),
+                        InlineKeyboardButton("⚡️𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/movie_on1"),
+                        InlineKeyboardButton("✪ 𝚃𝙾𝙽𝚈 𝚂𝚃𝙰𝚁𝙺 ✪", url="https://t.me/Movie_search_V4_bot"),
+                        InlineKeyboardButton("⚡️ 𝚄𝙿𝙳𝙰𝚃𝙴", url="https://t.me/movie_a1"),
                     ],
-                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://instagram.com/LazyDeveloper__")],
-                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/LazyDeveloperr")],
+                    [InlineKeyboardButton("⭑💢 𝙼𝚈 𝙰𝙻𝙻 𝙱𝙾𝚃𝚂 💢⭑", url="https://t.me/movie_a1/162")],
+                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ 𝙼𝙳𝙸𝚂𝙺 𝙲𝙷𝙰𝙽𝙽𝙻𝚂 ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/+gtlaKqnF9rVlMWRl")],
                 ]
             ),
             reply_to_message_id=update.message_id
@@ -84,11 +84,11 @@ async def start(bot, update):
             text=Translation.LAZY_START_TEXT.format(update.from_user.first_name),
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/LazyDeveloperr")],
+                    [InlineKeyboardButton("🦋 ⭑┗━━┫⦀⦙ O W N E R ⦙⦀┣━━┛⭑ 🦋", url="https://t.me/R_KOHLI")],
                     [
-                        InlineKeyboardButton("▍║▍▏║ UPDATE ║▍▏║▍", url="https://t.me/LazyPrincessSupport"),
+                        InlineKeyboardButton("▍║▍▏║ UPDATE ║▍▏║▍", url="https://t.me/movie_a1"),
                     ],
-                    [InlineKeyboardButton("⭑💢 𝚂 𝙾 𝙲 𝚒 𝙰 𝙻 💢⭑", url="https://instagram.com/LazyDeveloper__")],
+                    [InlineKeyboardButton("⭑💢 𝙼𝚈 𝙰𝙻𝙻 𝙱𝙾𝚃𝚂 💢⭑", url="https://t.me/movie_a1/162")],
                 ]
             ),
             reply_to_message_id=update.message_id
