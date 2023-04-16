@@ -17,7 +17,7 @@ URL | filename | username | password"""
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     CUSTOM_CAPTION_UL_FILE = "{}"
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>LazyDeveloperr</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>RAVI KOHLI</b> said: {}"
     HELP_USER = """How to Use Me? Follow These steps!
     
 1. Send url (example.domain/File.mp4 | New Filename.mp4).
@@ -28,7 +28,7 @@ URL | filename | username | password"""
    Video  - Give File as video without Screenshots
    File   - Give File without Screenshots
 
-Contact ADMIN if any error occurs @LazyDeveloperr"""
+Contact ADMIN if any error occurs @movie_a1"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /genthumbnail to a media album, to generate custom thumbnail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     CANCEL_STR = "Process Cancelled"
@@ -37,7 +37,7 @@ Contact ADMIN if any error occurs @LazyDeveloperr"""
     LAZY_START_TEXT = """𝙷𝚎𝚕𝚕𝚘 𝗕𝗲𝘄𝗮𝗳𝗮 {},
 
 𝗬𝗼𝘂 𝗺𝘂𝘀𝘁 𝗯𝗲 𝗮𝗻 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰 𝗨𝘀𝗲𝗿 𝘁𝗼 𝘂𝘀𝗲 𝗺𝗲.
-The 𝐋𝐚𝐳𝐲𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐫 has not allowed me to upload files from the urls which is send by an unAuthorised member.
+The 𝗥𝗔𝗩𝗜 𝗞𝗢𝗛𝗟𝗜 has not allowed me to upload files from the urls which is send by an unAuthorised member.
 
 Please contact my Developer to be an authorised user ! 
 """
