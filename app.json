@@ -36,6 +36,10 @@
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot (your id).",
       "value": ""
+     },
+     "LOG_CHANNEL": {
+      "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
+      "value": ""
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
