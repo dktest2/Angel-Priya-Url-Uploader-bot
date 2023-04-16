@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hi bewafa {} 😂,
-Myself 𝐀𝐧𝐠𝐞𝐥 𝐏𝐫𝐢𝐲𝐚 and I'm not Bewafa 
+    START_TEXT = """Hi handsome {} 👋,
+Myself 𝗪𝗜𝗟𝗗𝗘𝗘𝗥 and I'm URL UPLODER BOT 
 
 Just send me urls. You can send HTTP/HTTPS direct links. I will check and start uploading !
 
@@ -12,8 +12,8 @@ URL | filename | username | password"""
     DOWNLOAD_START = "Download started in **Lazy mode...**"
     UPLOAD_START = "Processing upload..."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank you <a href='https://t.me/LazyDeveloperr'>**LazyDeveloperr**</a> for helping us in this journey ❤️"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@LazyDeveloperr"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thank you <a href='https://t.me/R_KOHI'>**ℝ𝔸𝕍𝕀 𝕂𝕆ℍ𝕃𝕀**</a> for helping us in this journey ❤️"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@movi_a1"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     CUSTOM_CAPTION_UL_FILE = "{}"
